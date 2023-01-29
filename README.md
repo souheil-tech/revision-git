@@ -10,6 +10,7 @@
 2. Deux
 
 Formation **GIT**
+
 Fotmation *GIT*
 
 ---
@@ -18,7 +19,4 @@ Fotmation *GIT*
 <html></html>
 ```
 
-[lien] (http://google.fr)
-
-
-
+[Lien](http://google.fr)
